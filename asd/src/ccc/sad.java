@@ -5,7 +5,8 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 public class sad {
-
+	
+	// please add good names to variables and classes
 	public static void main(String[] args) {
 		Map<String, String> maptest=new LinkedHashMap<String, String>();
 		
